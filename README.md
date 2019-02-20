@@ -1,2 +1,2 @@
 # HeckChat
-Real Tme Chat App
+Real Time Chat App
