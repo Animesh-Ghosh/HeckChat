@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: heckchat.herokuapp.com
+Token: cfcf71a64f9459b5fceb3af12c1b5d481fb453aafdeea1cb83a9b02b47bbd2a5
