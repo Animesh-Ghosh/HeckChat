@@ -19,7 +19,7 @@ h2{
 }
 
 #chat-window{
-    height: 1307px;
+    height: 400px;
     overflow: auto;
     background:black;
 }
