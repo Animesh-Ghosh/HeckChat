@@ -17,8 +17,11 @@ btn.addEventListener('click', function(){
     message.value = "";
 });
 
-message.addEventListener('keypress', function(){
-    socket.emit('typing', handle.value);
+message.addEventListener('keypress', function(event){
+    if(event.keyCode === 13){     //code for Enter key
+      document.getElementById("send").click();
+      socket.emit('typing', handle.value);
+    }
 })
 
 // Listen for events
