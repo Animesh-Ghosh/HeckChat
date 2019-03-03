@@ -3,10 +3,8 @@
 
 ## Future Project Goals
 
-- [ ] A complete makeover of the  app in terms of  UI/UX.
-- [ ] Add rooms for separate group chats.
-- [ ] Optons to completely fix username.
-- [ ] Sign in (Not Recommended though).
-- [ ] A fix for PWA on iOS.
-
-
+- [ ] Complete makeover of the  app in terms of  UI/UX.
+- [ ] Add rooms/channels for separate chats.
+- [ ] Options to pick a fixed username.
+- [ ] Sign in (Not Recommended if anonymity is an issue).
+- [ ] Fix for PWA on iOS.
