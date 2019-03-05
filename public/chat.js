@@ -21,6 +21,7 @@ message.addEventListener('keypress', function(event){
     if(event.keyCode === 13){     //code for Enter key
       document.getElementById("send").click();
       socket.emit('typing', handle.value);
+      $('#handle').prop('disabled', true);
     }
 })
 
