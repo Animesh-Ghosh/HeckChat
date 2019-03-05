@@ -8,7 +8,7 @@
   "background_color": "#292c2f",
   "icons": [
     {
-      "src": "images/HeckChat.png",
+      "src": "images/splash_icon.png",
       "sizes": "512x512",
       "type": "image/png"
     },
